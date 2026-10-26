@@ -16,7 +16,7 @@ A simple Python project built using **Pandas** and **NumPy** to analyze student 
 ## 💻 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/toodle-cmd/Student--Grade--Ananylzer--mini-project.git
+   git clone https://github.com/toodle-cmd/Student-Grade-Ananylzer-mini-project.git
 
 2. #bash
   pip install pandas numpy
